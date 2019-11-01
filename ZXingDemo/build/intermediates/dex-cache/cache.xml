@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\AndroidStudioProjects\ZXingDemo\app\libs\core-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
+        <dex dex="D:\Users\Administrator\AndroidStudioProjects\ZXingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.0.0_fa1b99649c21d0a9c252d2cbf804bf84a38ea31c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\AndroidStudioProjects\ZXingDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="080d8c1fa61fccdf4d11e7c729c575ac606677b1">
+        <dex dex="D:\Users\Administrator\AndroidStudioProjects\ZXingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8587b440ac607e6237797ebfac587b63b59e19aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\AndroidStudioProjects\ZXingDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d3e8c3f3077fdd7ae5cbb33da0f84c8a16cd2d9d">
+        <dex dex="D:\Users\Administrator\AndroidStudioProjects\ZXingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3aa2cd552ba799292bf1f8f441bda9f7b9b71bca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Users\Administrator\AndroidStudioProjects\ZXingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_da7f6d4a2578328f7d18a9b32b1daa8a6a532adf\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\layout\\capture.xml"
+    }
+]

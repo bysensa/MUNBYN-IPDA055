@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BluetoothPrinterTest</string>
+    <string name="load_bluetoothPrinter">Load Bluetooth Printer Driver</string>
+    <string name="printer_init">BlueTooth Printer Init</string>
+    <string name="printer_test">Bluetooth Printing Test</string>
+    <string name="print_leftMargin">LeftMargin Test</string>
+    <string name="print_area">Print Area Test</string>
+    <string name="print_rightSpace">RightSpace Test</string>
+    <string name="print_align">Align Mode Test</string>
+    <string name="print_relative">Relative Print Position Test</string>
+    <string name="print_absolute">Absolute Print Position Test</string>
+    <string name="print_tab">Tab Position Test</string>
+    <string name="print_underline">Underline Test</string>
+    <string name="print_bmp">Bitmap Print Test</string>
+    <string name="print_barcode">BarCode Print Test</string>
+    <string name="print_QRcode">QRCode Print Test</string>
+    <string name="print_raster">Raster Print Test</string>
+    <string name="print_baidu_bill">Print BaiDu Bill</string>
+    <string name="print_meituan_bill">Print MeiTuan Bill</string>
+    <string name="print_elemo_bill">Print Elemo Bill</string>
+    <string name="print_koubei_bill">Print KouBei Bill</string>
+    <string name="print_Multithread_test">MultiThread Print Test</string>
+    <string name="get_BluetoothAdapter_fail">Please Open Bluetooth!</string>
+    <string name="get_BluetoothPrinterDevice_fail">Please Make Sure Bluetooth have IposPrinter!</string>
+    <string name="get_BluetoothPrinterDevice_success">Bluetooth Printer Driver is loading success!</string>
+    <string name="reset_motor_high_temp_status">Rest Moter Heigh Temp Status</string>
+    <string name="out_of_paper">The printer is out of paper</string>
+    <string name="exists_paper">The printer paper is ready</string>
+    <string name="printer_is_working">The printer is working</string>
+    <string name="printer_high_temp_alarm">Printer high temperature alarm</string>
+    <string name="motor_high_temp_alarm">Motor high temperature alarm</string>
+    <string name="printer_current_task_print_complete">The print task has been printed</string>
+    <string name="printer_exception">Printer Exception</string>
+    <string name="unknown_error">unknown status</string>
+    <string name="switch_mode">Switch Mode</string>
+    <string name="exit">Exit</string>
+</resources>

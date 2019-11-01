@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_ipos_printer_test_demo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.iposprinter.printertestdemo.IPosPrinterTestDemo">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <Button
+                android:id="@+id/b_Chinese"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Chinese"/>
+
+            <Button
+                android:id="@+id/b_Traditional_Chinese"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Traditional_Chinese"/>
+
+            <Button
+                android:id="@+id/b_english"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_english"/>
+
+            <Button
+                android:id="@+id/b_Korean"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Korean"/>
+
+            <Button
+                android:id="@+id/b_Japanese"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Japanese"/>
+
+            <Button
+                android:id="@+id/b_Indonesia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Indonesia"/>
+
+            <Button
+                android:id="@+id/b_Malay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Malay"/>
+
+            <Button
+                android:id="@+id/b_Catalonia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Catalonia"/>
+
+            <Button
+                android:id="@+id/b_Czech"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Czech"/>
+
+            <Button
+                android:id="@+id/b_Denmark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Denmark"/>
+
+            <Button
+                android:id="@+id/b_German"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_German"/>
+
+            <Button
+                android:id="@+id/b_Estonia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Estonia"/>
+
+            <Button
+                android:id="@+id/b_Spain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Spain"/>
+
+            <Button
+                android:id="@+id/b_Philippines"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Philippines"/>
+
+            <Button
+                android:id="@+id/b_French"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_French"/>
+
+            <Button
+                android:id="@+id/b_Croatia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Croatia"/>
+
+            <Button
+                android:id="@+id/b_Italy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Italy"/>
+
+            <Button
+                android:id="@+id/b_Latvia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Latvia"/>
+
+            <Button
+                android:id="@+id/b_Lithuania"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Lithuania"/>
+
+            <Button
+                android:id="@+id/b_Hungary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Hungary"/>
+
+            <Button
+                android:id="@+id/b_Dutch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Dutch"/>
+
+            <Button
+                android:id="@+id/b_Norway"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Norway"/>
+
+            <Button
+                android:id="@+id/b_poland"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_poland"/>
+            <Button
+                android:id="@+id/b_Portugal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Portugal"/>
+            <Button
+                android:id="@+id/b_Romania"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Romania"/>
+
+            <Button
+                android:id="@+id/b_Slovakia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Slovakia"/>
+
+            <Button
+                android:id="@+id/b_Slovenia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Slovenia"/>
+            <Button
+                android:id="@+id/b_Finland"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Finland"/>
+            <Button
+                android:id="@+id/b_Sweden"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Sweden"/>
+
+            <Button
+                android:id="@+id/b_Vietnam"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Vietnam"/>
+
+            <Button
+                android:id="@+id/b_Turkey"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Turkey"/>
+
+            <Button
+                android:id="@+id/b_Greek"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Greek"/>
+            <Button
+                android:id="@+id/b_Bulgaria"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Bulgaria"/>
+            <Button
+                android:id="@+id/b_Kazakh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Kazakh"/>
+            <Button
+                android:id="@+id/b_Russian"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Russian"/>
+
+            <Button
+                android:id="@+id/b_Serbia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Serbia"/>
+
+            <Button
+                android:id="@+id/b_Ukraine"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Ukraine"/>
+            <Button
+                android:id="@+id/b_Thai"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/print_Thai"/>
+            <Button
+                android:id="@+id/b_exit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Red_700"
+                android:text="@string/exit"/>
+
+            <TextView
+                android:id="@+id/info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

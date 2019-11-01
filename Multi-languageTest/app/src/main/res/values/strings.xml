@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">Multi-language print test</string>
+    <string name="load_bluetoothPrinter">Load Bluetooth Printer Driver</string>
+    <string name="printer_init">BlueTooth Printer Init</string>
+    <string name="printer_test">Bluetooth Printing Test</string>
+    <string name="print_leftMargin">LeftMargin Test</string>
+    <string name="print_area">Print Area Test</string>
+    <string name="print_rightSpace">RightSpace Test</string>
+    <string name="print_align">Align Mode Test</string>
+    <string name="print_relative">Relative Print Position Test</string>
+    <string name="print_absolute">Absolute Print Position Test</string>
+    <string name="print_tab">Tab Position Test</string>
+    <string name="print_underline">Underline Test</string>
+    <string name="print_bmp">Bitmap Print Test</string>
+    <string name="print_barcode">BarCode Print Test</string>
+    <string name="print_QRcode">QRCode Print Test</string>
+    <string name="print_raster">Raster Print Test</string>
+    <string name="print_baidu_bill">Print BaiDu Bill</string>
+    <string name="print_meituan_bill">Print MeiTuan Bill</string>
+    <string name="print_elemo_bill">Print Elemo Bill</string>
+    <string name="print_koubei_bill">Print KouBei Bill</string>
+    <string name="print_Multithread_test">MultiThread Print Test</string>
+    <string name="get_BluetoothAdapter_fail">Please Open Bluetooth!</string>
+    <string name="get_BluetoothPrinterDevice_fail">Please Make Sure Bluetooth have IposPrinter!</string>
+    <string name="get_BluetoothPrinterDevice_success">Bluetooth Printer Driver is loading success!</string>
+    <string name="reset_motor_high_temp_status">Rest Moter Heigh Temp Status</string>
+    <string name="out_of_paper">The printer is out of paper</string>
+    <string name="exists_paper">The printer paper is ready</string>
+    <string name="printer_is_working">The printer is working</string>
+    <string name="printer_high_temp_alarm">Printer high temperature alarm</string>
+    <string name="motor_high_temp_alarm">Motor high temperature alarm</string>
+    <string name="printer_current_task_print_complete">The print task has been printed</string>
+    <string name="printer_exception">Printer Exception</string>
+    <string name="unknown_error">unknown status</string>
+    <string name="switch_mode">Switch Mode</string>
+    <string name="exit">Exit</string>
+
+
+   <string-array name="language_name">
+       <item>中文</item>
+       <item>中文繁体</item>
+       <item>日语</item>
+       <item>英语</item>
+       <item>Bahasa Indonesia(印尼语)</item>
+       <item>Bahasa Melayu(马来语)</item>
+       <item>catalá(加泰罗尼亚语)</item>
+       <item>čeština(捷克语)</item>
+       <item>Dansk(丹麦语)</item>
+       <item>Deutsch(德语)</item>
+       <item>eesti(爱沙尼亚语)</item>
+       <item>Español(西班牙语)</item>
+       <item>Filipino(菲律宾语)</item>
+       <item>Français(法语)</item>
+       <item>hrvatski(克罗地亚语)</item>
+       <item>Italiano(意大利语)</item>
+       <item>latviešu(拉脱维亚语)</item>
+       <item>Lietuvių(立陶宛语)</item>
+       <item>Magyar(匈牙利语)</item>
+       <item>Nederlands(荷兰语)</item>
+       <item>Norsk bokmal(挪威语)</item>
+       <item>Polski(波兰语)</item>
+       <item>Protuguês(葡萄牙语)</item>
+       <item>româna(罗马尼亚语)</item>
+       <item>Slovenčina(斯洛伐克语)</item>
+       <item>Slovenščina(斯洛文尼亚语)</item>
+       <item>Suomi(芬兰语)</item>
+       <item>Svenska(瑞典语)</item>
+       <item>tiếng việt(越南语)</item>
+       <item>Türkçe(土耳其语)</item>
+       <item>Ελληνικά(希腊语)</item>
+       <item>Български(保加利亚语)</item>
+       <item>қазақ тілі(哈萨克语)</item>
+       <item>Русский(俄罗斯语)</item>
+       <item>српски(塞尔维亚语)</item>
+       <item>українська(乌克兰语)</item>
+     <!--  <item>Հայերէն(亚美尼亚语)</item>-->
+<!--
+       <item>(希伯来语)עברית</item>
+-->
+      <!-- <item>(乌尔都语)اردو</item>-->
+<!--
+       <item>العربية(阿拉伯语)</item>
+-->
+<!--
+       <item>فارسی(波斯语)</item>
+-->
+       <item>हिंदी(印度语)</item>
+      <!-- <item>বাংলা(孟加拉语)</item>-->
+       <item>ไทย(泰语)</item>
+       <item>ខ្មែរ(柬埔寨语)</item>
+       <item>한국의(韩语)</item>
+<!--
+       <item>ລາວ(老挝语)</item>
+-->
+   </string-array>
+    
+    <string-array name="print_content">
+        <item>中文,字面意思是中国文字特指汉字,广泛意思是中国语言文字包括少数民族语言文学</item>
+        <item>繁體中文（又稱正體中文），即傳統上的中華文化中所使用的中文書寫體系，目前已有二千年以上的歷史，直到20世紀一直是各地華人中通用的中文書寫標準。 1950年代開始大陸官方在繁體中文的基礎上所做的簡化形成了新的中文書寫標準，即簡體中文。</item>
+        <item>日本語は日本語 - 高句麗語または扶余語に分類され、ネイティブスピーカーの人数は1億2500万人で、日本人の人口は世界人口の3.1％を占めています。 。</item>
+        <item>English is a language of the Indo-European-Germanic language. It consists of 26 letters. The English letters are derived from the Latin alphabet. The Latin alphabet is derived from the Greek alphabet, while the Greek alphabet is derived from the Phoenician alphabet. of. English is the official language of international design (as a native language) and the most widely spoken first language in the world.</item>
+        <item>Bahasa Indonesia adalah bahasa Melayu berdasarkan dialek Riau dan merupakan bahasa resmi Indonesia. Sekitar 30 juta orang di dunia menggunakan bahasa Indonesia sebagai bahasa ibu mereka, dan sekitar 140 juta orang menggunakan bahasa Indonesia sebagai bahasa kedua untuk membaca dan berbicara bahasa Indonesia.</item>
+        <item>Bahasa Melayu adalah bahasa yang sama dengan bahasa Indonesia. Ia adalah bahasa rasmi Malaysia dan Brunei dan salah satu bahasa rasmi Singapura. Terdapat dua makna dalam pengertian luas dan sempit. Bahasa Melayu secara merujuk merujuk kepada bahasa-bahasa kepunyaan keluarga bahasa Indonesia keluarga bahasa Pulau Selatan, bahasa Melayu dalam arti sempit merujuk kepada bahasa yang digunakan di sekitar Selat Melaka.</item>
+        <item>El català (català, d\'ara endavant denominat canadenc), el llenguatge dels catalans, també conegut en algunes àrees com el valencià (Valencià) és un romance indoeuropeo, una de les llengües oficials d\'Espanya.</item>
+        <item>Český jazyk je oficiálním jazykem České republiky. Čeština a polština, slovenština, sorbština apod. Patří do slovanské větve slovanského jazyka. Čeština je velmi obtížné se učit. Jedním z důvodů je, že český jazyk je bohatý na formu. Podle statistik je v českém jazyce více než 200 formulářů.</item>
+        <item>Dansk, Kongeriget Danmarks officielle sprog, taler i Kongeriget Danmark og dets territorier på Færøerne og Grønland. Det er også sporadisk i dele af Tyskland, Norge og Sverige. Det tilhører den europæiske indo-europæisk-germansk nordnorske tyske afdeling.</item>
+        <item>Die Anzahl der Menschen in Deutschland beträgt 3,01% der Weltbevölkerung, sie ist die sechstplazierte Sprache der Welt, gemessen an der Anzahl der Länder, und eine der größten Sprachen der Welt und die am häufigsten verwendete Muttersprache in der Europäischen Union.</item>
+        <item>Estoni (Eesti keel) on Ida-Euroopa riikides Eesti riigikeel. Seda kasutab umbes 1,1 miljonit inimest ja seda kasutab 900 000 inimest emakeelena. See on üks Euroopa Liidu ametlikest keeltest.</item>
+        <item>El español se conoce como español (español) en partes de España, Estados Unidos, México, América Central, el Caribe, Colombia, Ecuador y Uruguay, mientras que en otras regiones, el español se conoce principalmente como Castellano. . El español es uno de los seis idiomas oficiales de las Naciones Unidas.</item>
+        <item>Ang wikang Tagalog ay kabilang sa pamilyang Malay-Polynesian na pamilya ng pamilyang wika ng South Island at higit sa lahat ay ginagamit sa Pilipinas. Ang "Filipino", na kilala bilang opisyal na wika ng Pilipinas, ay binuo sa Tagalog bilang pangunahing katawan.</item>
+        <item>Le français est l\'une des langues les plus indépendantes de la langue romane après la langue espagnole. Il y a actuellement 87 millions de personnes dans le monde qui l\'utilisent comme langue maternelle et 285 millions d\'autres personnes (y compris ceux qui l\'utilisent comme langue seconde).</item>
+        <item>Hrvatska je razvijena kapitalistička zemlja. Gospodarstvo dominira tercijarnom industrijom, a sekundarna industrija je zamjenik. Turizam je važan dio nacionalnog gospodarstva. Hrvatska ima čvrste ekonomske temelje i visoku razinu razvoja turizma, građevinarstva, brodogradnje i farmaceutske industrije. Nogomet i tenis vezani su za prvi pokret u Hrvatskoj.</item>
+        <item>L\'italiano è una delle lingue più belle del mondo. L\'italiano sembra bello e bello, e la gente elogia l\'italiano chiaro come il vento, con parole come fiori che sbocciano. L\'italiano è conosciuto come la lingua più artistica e la lingua più musicale del mondo.</item>
+        <item>Latvija ir vienota valsts, kas sastāv no 109 pašvaldībām un 9 pašvaldībām. Latvieši pieder pie Baltijas iedzīvotājiem un ir kulturāli tuvu lietuviešiem. Latviešu valoda ir indoeiropiešu valoda, un latviešu un lietuviešu valodas ir vienīgās Baltijas valodu saimes valodas.</item>
+        <item>Lietuviška (lietuvių kalba) yra lietuvių kalba, kuri yra oficiali Lietuvos kalba, kurią naudoja 4 milijonai lietuvių. Lietuvių kalba yra viena iš dviejų esamų baltų kalbų (kita - latvių). Baltijos kalbų šeima yra indoeuropiečių kalbos šeimos dalis. Tai indoeuropiečių kalbos šeimos rytinė šaka ir baltųjų kalbų šeima. Tai viena iš dviejų likusių kalbų šeimos kalbų (kita - latvių).</item>
+        <item>Magyarország hivatalos nyelve több mint 14 millió lakosot használ, melyből Magyarországon 9 millió, a maradék több mint 4 millió roma, szlovák, szerb, ukrán, osztrák és más országban szétszórva.</item>
+        <item>Nederlands is de officiële taal van Nederland en een van de officiële talen van België en behoort tot de "Indo-Europees-Germaans-West-Duitse tak". Gebruikers zijn voornamelijk gevestigd in Nederland, België, Zuid-Afrika, Suriname, de Caribische Antillen en andere plaatsen.</item>
+        <item>Norsk (Norsk) er norsk offisielle språk. I tillegg til befolkningen på 4,2 millioner i landet, er det rundt 600.000 nordmenn som har flyttet til USA. Etter en lang periode med endring på norsk, ble det veldig lik svensk og dansk, og folk på disse tre språkene kunne kommunisere med hverandre.</item>
+        <item>Polski jest językiem Polaków. Populacja wynosi około 48 milionów, z czego około 38 milionów znajduje się w Polsce, a około 10 milionów jest w innych krajach. W początkach Polski przyjmowano języki łacińskie i czeskie, a teksty pisane oficjalnie powstawały dopiero w XIV wieku.</item>
+        <item>Português (Português: Português) é abreviado como Português, pertencente ao ramo indo-europeu-romeno-ocidental Romance. O português é uma das poucas línguas amplamente distribuídas no mundo e a quinta (ou sexta) maior língua do mundo.</item>
+        <item>Română (limba română). Limba oficială a României, cu o populație globală de aproximativ 26 de milioane, este concentrată în Balcani din Europa. În Moldova, limba română este numită moldovenească. În plus, există și un număr mare de utilizatori în Ucraina, Bulgaria, Serbia, Ungaria, Albania, Grecia și Statele Unite.</item>
+        <item>Slovaško republiko (slovaško: Slovenská republika), ki se imenuje Slovaška, meji na Češko na severozahodu, na Poljskem na severu, Ukrajini na vzhodu, na Madžarskem na jugu in Avstriji na jugozahodu. Je neobalna država v Srednji Evropi.</item>
+        <item>Slovenski jezik pripada indoevropskim in slovanskim jezikom in se razdeli v Sloveniji, pa tudi na Madžarskem, v Avstriji in Italiji, s približno 2 milijoni prebivalcev. Ko je eden izmed treh uradnih jezikov nekdanje Jugoslavije (drugi dve srbsko-hrvaški in makedonski), je zdaj eden od 24 uradnih jezikov Evropske unije.</item>
+        <item>Suomi (Suomi) on suomenkielinen, ja useimmat (92%) kansalliset kielet käyttävät myös ulkomaalaisia suomalaisia. Se on yksi Suomen kahdesta virallisesta kielestä ja Ruotsin laillisesta vähemmistökielestä.</item>
+        <item>Svenska, som huvudsakligen används i Sverige, Finland (särskilt på Öland), med mer än 9 miljoner människor. Det är samma språk som de övriga två språken i Skandinavien - danska och norska.</item>
+        <item>Tiếng Việt, ngôn ngữ chính thức của Việt Nam, sử dụng 94,6 triệu người, thuộc về nhóm ngôn ngữ Nam Á - nhóm ngôn ngữ Việt - chi nhánh tiếng Việt, có liên quan đến tiếng Khmer, được đánh dấu bằng các ký tự Trung Quốc trong lịch sử và kết hợp từ vựng tiếng Trung. Khoảng 10.000 người Jing ở thành phố Dongxing, Trung Quốc sử dụng tiếng Việt.</item>
+        <item>Türklerin dili olan Türkçe (Türkçe, Türk dili), özellikle Türkiye\'de kullanılan 65 ila 73 milyon kişinin kullandığı ve Azerbaycan, Kıbrıs, Yunanistan, Makedonya, Romanya ve Batı Avrupa\'da yaşayan milyonlarca Türk göçmen (esas olarak Almanya\'da yoğunlaşmıştır). Türkçenin dikkat çekici bir özelliği, ünlü uyumu ve çok sayıda eki.</item>
+        <item>Ελληνική, ελληνική γλώσσα, που ανήκει στην ινδοευρωπαϊκή ελληνική γλώσσα, χρησιμοποιείται ευρέως στην Ελλάδα, την Αλβανία, την Κύπρο και άλλες χώρες, καθώς και σε ορισμένες περιοχές της Τουρκίας. Το αρχικό ελληνικό αλφάβητο με 26 γράμματα εξελίχθηκε σταδιακά μετά την εποχή του Ομήρου και αποφασίστηκε να είναι 24, το οποίο έχει χρησιμοποιηθεί στη νεοελληνική γλώσσα.</item>
+        <item>Български език, Български език. English Bulgarian принадлежи към индоевропейско-славянската езикова група - югославски клон - югоизточен славянски подотрасъл. Това е официалният език на България.</item>
+        <item>Алтай тіліндегі отбасылардағы қазақ тілі - қазақ тілі, қазақ тілінің бүкіл әлемде пайдаланатын тілі және басқа түркі тілдерінің ұлттық тіліне өте жақын.</item>
+        <item>Официальный язык Российской Федерации также является четвертым по величине языком в мире по числу носителей языка и пользователей второго языка. Число людей, использующих российские счета, составляет 5,7% населения мира. Русский относится к восточнославянскому отделению семьи славянских языков в индоевропейской языковой семье.</item>
+        <item>Српски и хрватски називани су "српско-хрватски" током периода Социјалистичке Федеративне Републике Југославије. Након распада Социјалистичке Федеративне Републике Југославије, "српско-хрватски" је постао српски и хрватски самостално.</item>
+        <item>Українська, українська мова. У світі близько 45 мільйонів людей, і в Північній Америці є кілька користувачів, що належать до індоєвропейської слов\'янської мови східнослов\'янської гілки.</item>
+<!--
+        <item>Հայը Հայաստանի Հանրապետության եւ Լեռնային Ղարաբաղի Հանրապետության պաշտոնական լեզուն է (ներկայումս միայն Հարավային Օսիայի Հանրապետության, Աբխազիայի Հանրապետության եւ Մերձդնեստրի գետի վրա ճանաչված ՄԱԿ-ի երեք ոչ անդամ պետությունների կողմից)</item>
+-->
+<!--
+        <item>עברית היא השפה הלאומית של היהודים ואחת השפות העתיקות ביותר בעולם.</item>
+-->
+<!--
+        <item>اردو (اردو) پاکستان کی قومی زبان اور بھارتی آئین کی طرف سے تسلیم شدہ زبانوں میں سے ایک ہے. یہ ایک بھارتی بھارتی زبان ہے جس میں بنیادی طور پر پاکستان اور بھارت میں تقسیم کیا جاتا ہے.</item>
+-->
+<!--
+        <item>اللغة العربية (العربية: لغة عربية) ، لغة العرب ، تنتمي إلى عائلة المقطع السمعي ، التي تمثل 2.73٪ من سكان العالم.</item>
+-->
+<!--
+        <item>فارسی (فارسی: فارسی = فریسی) همچنین به عنوان پارس شناخته می شود که متعلق به شعبه ای اروپایی-ایرانی-غربی، زبان رسمی ایران و تاجیکستان است</item>
+-->
+        <item>कई भारतीय राष्ट्रीयताएं और जटिल भाषाएं हैं। प्रासंगिक आंकड़ों के अनुसार, भारत में 1652 भाषाएं और बोलीभाषाएं हैं। एक लाख से अधिक लोगों का उपयोग कर 33 प्रकार के लोग हैं। अंग्रेजी भारत में बहुत प्रभावशाली है। संविधान की 18 भाषाओं के अलावा, जो संघ की आधिकारिक भाषाएं हैं, अंग्रेजी भी एक प्रशासनिक और न्यायिक भाषा है। अंग्रेजी और हिंदी दोनों आधिकारिक भाषाएं हैं। हिंदी भाषा में मुख्य रूप से हिंदी और उर्दू शामिल हैं।</item>
+       <!-- <item>বাংলা ইন্দো-ইউরোপীয় হিন্দি ভাষার অন্তর্গত.এটি বাংলাদেশের আনুষ্ঠানিক ভাষা এবং ভারতের পশ্চিমবঙ্গ এবং ত্রিপুরা। এর জনসংখ্যা প্রায় 270 মিলিয়ন এবং এটি হিন্দি ভাষার দ্বিতীয় বৃহত্তম ভাষা হিন্দি পরে।</item>-->
+        <item>ชาวไทยส่วนใหญ่ใช้ในประเทศไทยลาวพม่าตะวันตกเฉียงเหนือเวียดนามตะวันตกเฉียงเหนือของกัมพูชาทางตะวันตกเฉียงใต้ของจีนและตะวันออกเฉียงเหนือของอินเดีย</item>
+        <item>ភាសាខ្មែរដែលត្រូវបានគេស្គាល់ជាភាសាខ្មែរជាភាសាខ្មែរភាសាខ្មែរភាសាបាលីបារាំងចិនថៃនិងវៀតណាម។</item>
+        <item>한국어 (한국어), 한국어 (조선말), 한국어 (Dao)로 불리는이 텍스트는 한국 미술이라고합니다. 그것은 한국 민족이 사용하는 언어입니다.</item>
+<!--
+        <item>Lao ແມ່ນພາສາຂອງກຸ່ມພາສາ Zhuang - ສາຂາພາສາ Zhuang, ມັນໄດ້ເອົາໃຈໃສ່ຈໍານວນຫຼາຍຂອງ Sanskrit ແລະ Ba ໃນປະຫວັດສາດ. ຄໍາສັບແລະພາສາກໍາປູເຈຍ.</item>
+-->
+
+    </string-array>
+</resources>

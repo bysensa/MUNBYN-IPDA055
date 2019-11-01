@@ -1,0 +1,4 @@
+1.IposPrinterTestDemo:AIDL 接口的Demo
+2.BluetoothPrinter-new：蓝牙打印DEMO
+3.Multi-languageTest：多国语言打印demo
+4.ZXingDemo：扫码demo
